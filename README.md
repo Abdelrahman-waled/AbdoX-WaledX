@@ -12,7 +12,7 @@
 <a href="https://www.flutter/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="firebase" /></a>
 <a href="https://androidstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" width="36" height="36" alt="androidstudio" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="36" height="36" alt="Python" /></a>
 <a href="https://www.vscode.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="36" height="36" alt="vscode" /></a>
 <a href="https://developer.idea.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" width="36" height="36" alt="idea"/></a>
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="github" /></a>
@@ -20,7 +20,9 @@
 <a href="https://www.anaconda.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="36" height="36" alt="anaconda" /></a>
 <a href="https://www.c.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="c" /></a>
 <a href="https://www.cpp.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=light" width="36" height="36" alt="cpp" /></a>
-<a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
+<a href="https://www.matlab.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matlab&theme=light" width="36" height="36" alt="matlab" />
+ <a href="https://www.arduino.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino&theme=light" width="36" height="36" alt="arduino" /></a>
+</a>
 <h6>⬆ clique na tecnologia para saber mais sobre ela ⬆</h6>
 </p>
 <br>
