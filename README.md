@@ -14,7 +14,7 @@
 <a href="https://androidstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" width="36" height="36" alt="androidstudio" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /></a>
 <a href="https://www.vscode.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="36" height="36" alt="vscode" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript"/></a>
+<a href="https://developer.idea.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" width="36" height="36" alt="idea"/></a>
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="github" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=light" width="36" height="36" alt="Express" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="36" height="36" alt="PostgreSQL" /></a>
