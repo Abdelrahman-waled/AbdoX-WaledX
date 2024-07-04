@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="36" height="36" alt="Git" /></a>
 <a href="https://www.dart.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.Flutter.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=Flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=Flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /></a>
