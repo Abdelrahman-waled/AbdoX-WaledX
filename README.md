@@ -8,7 +8,7 @@
 <b>Minha Stack:</b>
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="36" height="36" alt="Git" /></a>
-<a href="https://www.dart.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.dart.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" /></a>
