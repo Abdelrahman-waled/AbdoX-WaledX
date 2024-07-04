@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **always learning**
 
+<h3 align="left">Connect with me:</h3>
+<a href="https://bebowaled35@gmail.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" height="36" alt="gmail" /></a>
+<a href="https://t.me/abdowaled20011113/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=telegram&theme=dark" width="36" height="36" alt="telegram" /></a>
 
 <a href="https://www.dart.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.flutter/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
