@@ -22,7 +22,7 @@
 <a href="https://www.c.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="c" /></a>
 <a href="https://www.cpp.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=light" width="36" height="36" alt="cpp" /></a>
 <a href="https://www.matlab.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matlab&theme=light" width="36" height="36" alt="matlab" />
- <a href="https://www.arduino.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino&theme=black" width="36" height="36" alt="arduino" /></a>
+ <a href="https://www.arduino.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino&theme=light" width="36" height="36" alt="arduino" /></a>
 </a>
 <h6>⬆ clique na tecnologia para saber mais sobre ela ⬆</h6>
 </p>
