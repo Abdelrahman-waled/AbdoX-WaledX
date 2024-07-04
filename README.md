@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://bebowaled35@gmail.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" height="36" alt="gmail" /></a>
-<code><a href="https://t.me/abdowaled20011113"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></code>
+<code><a href="https://t.me/abdowaled20011113"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black"></a></code>
 
 <a href="https://www.dart.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.flutter/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
@@ -35,10 +35,7 @@
 </p>
 <br>
 <div align="center">
-  <p><b>sociais:</b></p>
-  <code><a href="https://www.linkedin.com/in/pdr-neves" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
-  <code><a href="http://www.instagram.com/pdr0nvs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></code>
-  <code><a href="https://t.me/pdrTuche"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></code>
+ 
 </div>
 <br>
 </samp>
