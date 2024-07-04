@@ -1,6 +1,5 @@
 <samp>
- 
-<div align="center">
+
 <h1 align="center">Hi 👋, I'm Abdelrahman waled</h1>
 <h3 align="center">Mobile app Developer</h3>
 
@@ -13,7 +12,7 @@
 - 📫 How to reach me **bebowaled35@gmail.com**
 
 - ⚡ Fun fact **always learning**
-<p align="center">
+
 
 <a href="https://www.dart.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.flutter/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
