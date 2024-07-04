@@ -7,7 +7,7 @@
 <p align="">Gosto de brincar com TypeScript e Express. Sou entusiasta do OpenSource e estou aberto a colaborar em projetos com estes frameworks. 🤝</p>
 <b>Minha Stack:</b>
 <p align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="36" height="36" alt="Git" /></a>
+
 <a href="https://www.dart.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.flutter/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="firebase" /></a>
@@ -15,6 +15,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="36" height="36" alt="Python" /></a>
 <a href="https://www.vscode.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="36" height="36" alt="vscode" /></a>
 <a href="https://developer.idea.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" width="36" height="36" alt="idea"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="36" height="36" alt="Git" /></a>
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="github" /></a>
 <a href="https://pycharm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pycharm&theme=light" width="36" height="36" alt="pycharm" /></a>
 <a href="https://www.anaconda.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="36" height="36" alt="anaconda" /></a>
