@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman waled </h1>
-<h3 align="center">Mobile app Developer</h3>
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Mobile Applications Developer;">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharwatsamy&label=Profile%20views&color=0e75b6&style=flat" alt="tharwatsamy" /> </p>
 
