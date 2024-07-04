@@ -10,7 +10,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="36" height="36" alt="Git" /></a>
 <a href="https://www.dart.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.flutter/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" /></a>
+<a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="firebase" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="36" height="36" alt="Django" /></a>
