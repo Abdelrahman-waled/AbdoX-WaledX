@@ -1,11 +1,18 @@
 <samp>
  
 <div align="center">
-<b align="">Sobre mim:</b>
-<p align="">Programador há 4 anos, a maior parte da minha experiência se resume em criação e deploy de aplicações web na plataforma de nuvem DigitalOcean.</p>
-<p align="">Não sou apegado a linguagem de programação, minha experiencia se resume em desenvolvimento de backend com Python e Django Rest Framework, sistemas web em Java JSP e SpringBoot, PHP e Laravel. Utilizando JavaScript, criei aplicativos mobile com React Native. Hodiernamente venho focando em desenvolvimento de API 's REST com PHP e Laravel.</p>
-<p align="">Gosto de brincar com TypeScript e Express. Sou entusiasta do OpenSource e estou aberto a colaborar em projetos com estes frameworks. 🤝</p>
-<b>Minha Stack:</b>
+<h1 align="center">Hi 👋, I'm Abdelrahman waled</h1>
+<h3 align="center">Mobile app Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharwatsamy&label=Profile%20views&color=0e75b6&style=flat" alt="tharwatsamy" /> </p>
+
+- 🌱 I’m currently learning **FLUTTER Development**
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **bebowaled35@gmail.com**
+
+- ⚡ Fun fact **always learning**
 <p align="center">
 
 <a href="https://www.dart.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
