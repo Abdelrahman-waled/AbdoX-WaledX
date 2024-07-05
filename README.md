@@ -18,7 +18,7 @@
 
 
 <a href="https://t.me/abdowaled20011113">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40" style="border-radius: 50%; background-color: #2CA5E0; padding: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="36" height="36" style="border-radius: 50%; background-color: #2CA5E0; padding: 5px;">
 </a>
 
 
