@@ -21,12 +21,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="36" height="36" style="border-radius: 50%; background-color: #2CA5E0; padding: 5px;">
 </a>
 
-
-
-
-
 </div>
-<hr>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
 
 <div>
 <h3 align="left" tabindex="-1" class="heading-element" dir="auto">Languages and Tools:</h3>
