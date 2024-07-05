@@ -32,56 +32,7 @@
 <a href="https://www.matlab.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matlab&theme=light" width="36" height="36" alt="matlab" />
  <a href="https://www.arduino.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino&theme=light" width="36" height="36" alt="arduino" /></a>
 </a>
-<h6>⬆ clique na tecnologia para saber mais sobre ela ⬆</h6>
+<h6>
 </p>
 <br>
 <div align="center">
- 
-</div>
-<br>
-</samp>
-<br>
-<p align="">As vezes posto alguns de meus projetos no <a href="https://www.youtube.com/@pdr-tuche">YouTube</a></p>
-<details>
-<summary><b>🚀 Projetos em Destaque </b><i>(clique para expandir!!)</i></summary>
-<br>
-<div align="center">
-  <a href="https://github.com/pdr-tuche/desafio_cangas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=desafio_cangas" />
-  </a>
-  <a href="https://github.com/pdr-tuche/Biblia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=Biblia" />
-  </a>
-  <a href="https://github.com/pdr-tuche/Seven-Days-Of-Code-Java">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=Seven-Days-Of-Code-Java" />
-  </a>
-  <a href="https://github.com/pdr-tuche/ChocolateyDevPackages">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=ChocolateyDevPackages" />
-  </a>
-  <a href="https://github.com/pdr-tuche/swagger-rest-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=swagger-rest-api" />
-  </a>
-  <a href="https://github.com/pdr-tuche/CRUDJavaSwing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdr-tuche&show_icons=true&theme=gotham&hide_border=true&repo=CRUDJavaSwing" />
-  </a>
-  <br>
-</div>
-</details>
-<details>
-  <summary> <b>📊 GitHub Stats </b><i >(clique para expandir !!)</i> </summary>
-  <br>
-  <div align="center">
-   <a href = "https://github.com/pdr-tuche"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pdr-tuche&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Total%20de%20contribuições%20" width="95%" alt="activity graph"></a>
-   <a href = "https://github.com/pdr-tuche"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr-tuche&show_icons=true&line_height=20&theme=gotham&hide_border=true&rank_icon=percentile&include_all_commits=true&count_private=true&locale=pt-br"></a>
-   <a href = "https://github.com/pdr-tuche"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr-tuche&theme=gotham&hide_progress=true&hide_border=true&layout=compact&langs_count=6&hide=html,css,scss,hack&range=all_time&line_height=30&locale=pt-br"/></a>
-   </div>
-   <br>
-   <br>
-<samp>
-<!--   <div align="center">
-    <p><b>Profile Views: 👀</b></p>
-  <img height ="20px" src="https://profile-counter.glitch.me/{pdr-tuche}/count.svg"> 
- <img src="https://komarev.com/ghpvc/?username=pdr-tuche&style=flat-square&color=1a1b27&label=profile+views">
-  </div>  -->
-</samp>
-</details>
