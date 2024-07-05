@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
+<a href="https://discord.com/channels/@me/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="36" height="36" alt="discord" /></a>	
 <a href="https://bebowaled35@gmail.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" height="36" alt="gmail" /></a>
 
 
