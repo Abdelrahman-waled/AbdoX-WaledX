@@ -16,7 +16,7 @@
 <div align="left">
 &nbsp;  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="30" alt="discord logo"  />&nbsp;
 &nbsp;  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />&nbsp;
-&nbsp;  <img src="https://bebowaled35@gmail.com/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="28" height="28" alt="telegram logo"  />&nbsp;
+&nbsp;  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="28" height="28" alt="telegram logo"  />&nbsp;
 </div>
 <hr>
 
