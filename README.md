@@ -18,7 +18,7 @@
 &nbsp;  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />&nbsp;
 &nbsp;  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="28" height="28" alt="telegram logo"  />&nbsp;
 </div>
-<hr><hr width="5%" />
+<hr><hr width="0.5%" />
 
 <div>
 <h3 align="left" tabindex="-1" class="heading-element" dir="auto">Languages and Tools:</h3>
