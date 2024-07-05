@@ -30,6 +30,7 @@
 <a href="https://www.dart.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.flutter/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.firebase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="firebase" /></a>
+<a href="https://www.gradle.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="36" height="36" alt="gradle" /></a>	
 <a href="https://androidstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" width="36" height="36" alt="androidstudio" /></a>
 <a href="https://www.vscode.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="36" height="36" alt="vscode" /></a>
 <a href="https://developer.idea.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" width="36" height="36" alt="idea"/></a>
