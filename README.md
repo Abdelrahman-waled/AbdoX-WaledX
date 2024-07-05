@@ -14,8 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-&nbsp;  <img src="https://raw.githubusercontent.com/AbdoX-WaledX/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="30" alt="discord logo"  />&nbsp;
-&nbsp;  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />&nbsp;
+<a href="mailto:bebowaled35@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="40" height="40" style="border-radius: 50%; background-color: #D14836; padding: 5px;">
+</a>
+
 <a href="https://t.me/abdowaled20011113">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40" style="border-radius: 50%; background-color: #2CA5E0; padding: 5px;">
 </a>
