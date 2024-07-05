@@ -17,8 +17,9 @@
 &nbsp;  <img src="https://raw.githubusercontent.com/AbdoX-WaledX/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="30" alt="discord logo"  />&nbsp;
 &nbsp;  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />&nbsp;
 <a href="https://t.me/your-telegram-username">
-  <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=2CA5E0&shape=round" alt="Telegram">
 </a>
+
 
 
 </div>
