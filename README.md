@@ -38,7 +38,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" width="36" height="36" alt="Git" /></a>
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="github" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&&theme=dark" width="36" height="36" alt="Python" /></a>
-<a href="https://pycharm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pycharm&theme=light" width="36" height="36" alt="pycharm" /></a>
+<a href="https://pycharm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pycharm&theme=black" width="36" height="36" alt="pycharm" /></a>
 <a href="https://www.anaconda.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="36" height="36" alt="anaconda" /></a>
 <a href="https://www.c.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="c" /></a>
 <a href="https://www.cpp.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=light" width="36" height="36" alt="cpp" /></a>
