@@ -14,9 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-<a href="mailto:your-email@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="40" height="40" style="border-radius: 50%; background-color: #D14836; padding: 5px;">
-</a>
+<a href="https://bebowaled35@gmail.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" height="36" alt="gmail" /></a>
 
 
 <a href="https://t.me/abdowaled20011113">
