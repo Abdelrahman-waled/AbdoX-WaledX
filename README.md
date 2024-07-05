@@ -13,8 +13,9 @@
 - ⚡ Fun fact **always learning**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://bebowaled35@gmail.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" height="36" alt="gmail" /></a>
-<code><a href="https://t.me/abdowaled20011113"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black"></a></code>
+<img src="https://discord.com/channels/@me/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://bebowaled35@gmail.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://t.me/abdowaled20011113/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 
 <a href="https://www.dart.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.flutter/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36" height="36" alt="Flutter" /></a>
@@ -31,8 +32,7 @@
 <a href="https://www.cpp.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=light" width="36" height="36" alt="cpp" /></a>
 <a href="https://www.matlab.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matlab&theme=light" width="36" height="36" alt="matlab" />
  <a href="https://www.arduino.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino&theme=light" width="36" height="36" alt="arduino" /></a>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" height="40" alt="thealgorithms logo"  />
+
 </a>
 <h6>
 </p>
