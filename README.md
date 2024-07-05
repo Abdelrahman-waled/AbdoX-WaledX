@@ -52,6 +52,8 @@
 <br>
 <div align="center">
 <hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/AbdoX-WaledX/count.svg?"  />
 </div>
@@ -59,3 +61,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/AbdoX-WaledX/AbdoX-WaledX/output/snake.svg" alt="Snake animation" />
+
+###
