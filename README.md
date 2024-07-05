@@ -18,6 +18,7 @@
 &nbsp;  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />&nbsp;
 &nbsp;  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="28" height="28" alt="telegram logo"  />&nbsp;
 </div>
+<hr></hr>
 <div>
 <h3 align="left" tabindex="-1" class="heading-element" dir="auto">Languages and Tools:</h3>
 <a href="https://www.dart.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" height="36" alt="Dart" /></a>
@@ -36,7 +37,7 @@
 <a href="https://www.matlab.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matlab&theme=light" width="36" height="36" alt="matlab" />
  <a href="https://www.arduino.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino&theme=light" width="36" height="36" alt="arduino" /></a>
 </div>
-<hr></hr>
+
 </a>
 <h6>
 </p>
