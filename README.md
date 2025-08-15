@@ -28,7 +28,8 @@
   <a href="https://t.me/abdowaled20011113" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="36" alt="Telegram" style="background-color:#2CA5E0; border-radius:50%; padding:4px;" />
   </a>
-  <a href="https://discord.com/channels/@me/" target="_blank">
+  <!-- Replace YOUR_DISCORD_USER_ID with your numeric Discord user ID or provide an invite link -->
+  <a href="https://discordapp.com/users/YOUR_DISCORD_USER_ID" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="36" alt="Discord" />
   </a>
 </p>
@@ -60,13 +61,13 @@
 
 ## 📊 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_GITHUB_USERNAME&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="Hits" />
+  <!-- If your GitHub username is different, replace AbdelrahmanWaled below -->
+  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanWaled&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views badge" />
 </p>
 
 ---
 
-##  GitHub Contribution
+## 🐍 GitHub Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg" />
