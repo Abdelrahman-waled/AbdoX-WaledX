@@ -2,7 +2,7 @@
 
 <!-- Hero Image -->
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/378104017/404ba95d-a609-49cf-8504-d80619ddda9d" alt="Pixel Art Banner" width="720">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Pixel Art Banner" width="720">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Abdelrahman Waled</h1>
