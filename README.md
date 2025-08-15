@@ -10,6 +10,12 @@
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Profile Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">
+    <img src="https://img.shields.io/badge/Generate%20your%20README-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile README Generator">
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -55,6 +61,32 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="36" alt="MATLAB" /></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="36" alt="Arduino" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" alt="Postman" /></a>
+</p>
+
+---
+
+## ⌨️ Typing... (because why not)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=600&lines=Flutter+dev+by+day%2C+AI+student+by+night;Shipping+pixel-perfect+mobile+UX;Breaking+things+so+you+don't+have+to" alt="Typing SVG" />
+</p>
+
+---
+
+## 🏆 Trophies (auto-generated style)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanWaled&theme=onedark&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 GitHub Stats (generator-friendly)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanWaled&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=AbdelrahmanWaled&theme=github-dark" alt="Streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanWaled&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
