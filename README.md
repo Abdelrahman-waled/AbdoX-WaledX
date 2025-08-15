@@ -1,14 +1,13 @@
 <!-- README.md -->
 
-<!-- Hero Image -->
+<h1 align="center">Hi 👋, I'm Abdelrahman Waled</h1>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Pixel Art Banner" width="720">
+  🚀 Mobile Applications Developer | AI Student | Flutter Enthusiast 🚀
 </p>
 
-<h1 align="center">Hi there 👋, I'm Abdelrahman Waled</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=450&height=60&lines=Mobile+Applications+Developer;AI+Student;Flutter+Enthusiast" alt="Typing SVG">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Profile Banner" width="100%">
 </p>
 
 ---
