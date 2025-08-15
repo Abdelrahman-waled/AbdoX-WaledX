@@ -62,7 +62,7 @@
 ## 📊 Visitor Count
 <p align="center">
   <!-- If your GitHub username is different, replace AbdelrahmanWaled below -->
-   <img src="https://komarev.com/ghpvc/?username=AbdelrahmanWaled&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile views badge" width="120" height="60" />
+   <img src="https://komarev.com/ghpvc/?username=AbdelrahmanWaled&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile views badge" width="130" height="60" />
 
 </p>
 
