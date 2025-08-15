@@ -4,14 +4,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Mobile+Applications+Developer;">
 </p> 
 
-- 🌱 I’m an Artificial Intelligence Student & currently learning **FLUTTER Development**  
-- 💬 Ask me about **anything**  
-- 📫 How to reach me: **[bebowaled35@gmail.com](mailto:bebowaled35@gmail.com)**  
-- ⚡ Fun fact: **Always learning**  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Laptop illustration" width="400"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" valign="top">
+        🌱 I’m an Artificial Intelligence Student & currently learning **FLUTTER Development**  
+        💬 Ask me about **anything**  
+        📫 How to reach me: **[bebowaled35@gmail.com](mailto:bebowaled35@gmail.com)**  
+        ⚡ Fun fact: **Always learning**  
+      </td>
+      <td align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Laptop illustration" width="300"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
