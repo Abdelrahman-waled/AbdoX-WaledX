@@ -57,7 +57,6 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" alt="Postman" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="36" alt="figma" /></a>
   <a href="https://www.ros.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ros&theme=dark" width="36" alt="ros" /></a>
-  <a href="https://www.htmx.com/" target="_blank"><img src="https://skillicons.dev/icons?i=htmx&theme=dark" width="36" alt="htmx" /></a>
   <a href="https://www.stackoverflow.com/" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" width="36" alt="stackoverflow" /></a>
   <a href="https://www.supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="36" alt="supabase" /></a>
 
