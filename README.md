@@ -16,7 +16,7 @@
 - 🚀 Currently diving deep into **Flutter Development**  
 - 💬 Ask me about **Flutter**, **Mobile Development**, or **AI basics**  
 - 📫 Reach me at: [bebowaled35@gmail.com](mailto:bebowaled35@gmail.com)  
-- ⚡ Fun fact: I’m always learning something new  
+
 
 ---
 
