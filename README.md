@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Mobile+Applications+Developer;">
 </p> 
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
 - 🌱 I’m an Artificial Intelligence Student & currently learning **FLUTTER Development**  
 - 💬 Ask me about **anything**  
 - 📫 How to reach me: **[bebowaled35@gmail.com](mailto:bebowaled35@gmail.com)**  
 - ⚡ Fun fact: **Always learning**  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Laptop illustration" width="400"/>
+</p>
 
 ---
 
@@ -44,14 +44,6 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="36" height="36" alt="Arduino" /></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" /></a>
 </div>
-
-</td>
-
-<td valign="top" width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Laptop illustration" width="300"/>
-</td>
-</tr>
-</table>
 
 ---
 
