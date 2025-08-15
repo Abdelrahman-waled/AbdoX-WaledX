@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi , I'm Abdelrahman Waled</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Waled</h1>
 <p align="center">
 🚀 Mobile Applications Developer | AI Student | Flutter Enthusiast 🚀
 </p>
