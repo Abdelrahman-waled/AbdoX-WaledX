@@ -60,14 +60,13 @@
 
 ## 📊 Visitor Count
 <p align="center">
-  
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_GITHUB_USERNAME&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="Hits" />
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+##  GitHub Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg" />
