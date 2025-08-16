@@ -70,9 +70,8 @@
 <p align="center">
   <!-- If your GitHub username is different, replace AbdelrahmanWaled below -->
    <img src="https://komarev.com/ghpvc/?username=AbdelrahmanWaled&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile views badge" width="140" height="60" />
-  <p align="center">
-  Profile Views<br>
-  <img src="https://profile-counter.glitch.me/kevinadhiguna/count.svg" />
+  [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/kevinadhiguna)](https://github.com/kevinadhiguna)
+
 </p>
 
 </p>
