@@ -43,7 +43,7 @@
 
 ## 📊 Visitor Count
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=AbdelrahmanWaled&repo=kevinadhiguna&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF" alt="Hello !" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=AbdelrahmanWaled&repo=kevinadhiguna&label=thanks%20for%20your%20visit%20!&labelColor=%23000000&countColor=%23FFFFFF" alt="Hello !" />
 </p>
 <br />
 
