@@ -43,14 +43,9 @@
 
 ## 📊 Visitor Count
 <p align="center">
-  <!-- Replace AbdelrahmanWaled with your actual GitHub username if different -->
-  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanWaled&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile views badge" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=AbdelrahmanWaled&repo=kevinadhiguna&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF" alt="Hello !" />
 </p>
 <br />
-
-Thanks for making this far! You deserve a pat on the back :)
-
-![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=AbdelrahmanWaled&repo=kevinadhiguna&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
 
 
 ---
