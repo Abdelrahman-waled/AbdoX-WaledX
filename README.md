@@ -36,7 +36,26 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <!-- icons list unchanged -->
+   <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="36" alt="Dart" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="36" alt="Flutter" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" alt="Firebase" /></a>
+  <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="36" alt="Gradle" /></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="36" alt="Android Studio" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="36" alt="VS Code" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="36" alt="IntelliJ IDEA" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" alt="GitHub" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" alt="Python" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="36" alt="PyCharm" /></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="36" alt="Anaconda" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="36" alt="C" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="36" alt="C++" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="36" alt="MATLAB" /></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="36" alt="Arduino" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" alt="Postman" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="36" alt="figma" /></a>
+  <a href="https://www.ros.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ros&theme=dark" width="36" alt="ros" /></a>
+  <a href="https://www.supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="36" alt="supabase" /></a>
 </p>
 
 ---
